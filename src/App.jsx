@@ -1,10 +1,10 @@
 import React from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Navbar from './Components/Navigation/Navbar.jsx'
-import Home from './Components/Home.jsx'
-import About from './Components/About.jsx'
-import Projects from './Components/Projects.jsx'
-import Contact from './Components/Contact.jsx'
+import Home from './Components/pages/Home.jsx'
+import About from './Components/pages/About.jsx'
+import Projects from './Components/pages/Projects.jsx'
+import Contact from './Components/pages/Contact.jsx'
 const App = () => {
   return (
     <main className=''>
