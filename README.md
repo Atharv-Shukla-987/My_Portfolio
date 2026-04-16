@@ -42,9 +42,16 @@ https://my-portfolio-snowy-xi-36.vercel.app/
 - Email support for contact
 - background sound
 
+## Declaration
+The content writen in about page is not true.  
+hope it becames true and i get rich and print moneyyyy (*-*)
+
+ 
   ## contacts
 
    Email : atharvashuklain466@gmail.com
   
   CREATOR : ATHARV SHUKLA
+
+
 
