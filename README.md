@@ -49,7 +49,7 @@ hope it becames true and i get rich and print moneyyyy (*-*)
  
   ## contacts
 
-   Email : atharvashuklain466@gmail.com
+   Email : atharvshukla466@gmail.com
   
   CREATOR : ATHARV SHUKLA
 
