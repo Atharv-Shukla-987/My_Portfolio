@@ -14,12 +14,18 @@ const Navbar = () => {
 
         </NavLink>
        
-        <NavLink to='/about' className={({ isActive }) => isActive ? "text-blue-600" : "text-black" }>
+       <nav className='flex justify-between items-center gap-10'>
+         <NavLink to='/about' className={({ isActive }) => isActive ? "text-blue-600" : "text-black" }>
           About
         </NavLink>
         <NavLink to='/projects' className={({ isActive }) => isActive ? "text-blue-600" : "text-black"}>
           Projects
         </NavLink>
+        <NavLink to='/contact' className={({ isActive }) => isActive ? "text-blue-600" : "text-black"}>
+        Contact
+        </NavLink>
+       </nav>
+
       
       </div>
     </header>

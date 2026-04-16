@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+
+.block-container:hover > .btn-front {
+  transform: translateZ(80px) translateY(-5px) rotateX(15deg) rotateY(15deg) scale(1.1);
+}
+
+
+.block-container:hover .btn-front img {
+  transform: scale(1.2);
+  transition: transform 0.3s ease-in-out;
+}
