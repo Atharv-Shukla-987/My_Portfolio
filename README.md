@@ -14,6 +14,15 @@ also trying other various things such as making game using godot and making an u
  My intention about making the website is to showcase my skill to collabarators and get credibility abot my skills
 
 
+
+## deployment 
+
+deployed using vercel
+
+https://my-portfolio-snowy-xi-36.vercel.app/
+
+
+
  ## USED TECHNOLOGY
   - HTML
   - CSS(TAILWIND)
@@ -23,5 +32,19 @@ also trying other various things such as making game using godot and making an u
   - GSAP
   - SCROLLTRIGGER
   - THREE_JS
-  - 
+  - MAIL_JS
+  -REACT VERTICAL TIMELINE COMPONENT
+
+
+## KEY FEATURES
+- Responsive design
+- 3d Elements
+- Email support for contact
+- background sound
+
+  ## contacts
+
+   Email : atharvashuklain466@gmail.com
+  
+  CREATOR : ATHARV SHUKLA
 
